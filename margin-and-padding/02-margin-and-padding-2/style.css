@@ -8,23 +8,19 @@ body {
   background: #fff;
   margin: 16px auto;
   padding: 8px;
-  padding-top: 16px;
 }
 
 .title {
   background: #e3f4ff;
   padding: 8px;
-  margin-top: 8px;
   margin-bottom: 8px;
   font-size: 16px;
 }
 
 .content {
   background: #e3f4ff;
-  padding: 8px;
+  padding: 16px 8px;
   margin-bottom: 8px;
-  padding-top: 16px;
-  padding-bottom: 16px;
 }
 
 .button-container {
@@ -36,11 +32,7 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  padding: 8px;
+  padding: 8px 24px;
   display: block;
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  align-items: center;
+  margin: 0 auto;
 }
